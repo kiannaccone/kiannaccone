@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <br>
   <p align="center">
    <samp>
-   When I'm not coding, you can find me reading, hiking, or spending time with my family and friends.
+   When I'm not coding, you can find me reading, hiking, snowboarding, or spending time with my family and friends.
     </samp>
   <br>
   <br><br>
