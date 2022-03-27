@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- I’m excited to utilize my coding abilities to work on future projects and launch my software enginerring career!  -->
 <p align="center">
   <samp>
- Hi there! My name is Katherine Iannaccone and I am a Full-Stack Jr. Software Developer from Denver,CO. I graduated from Flatiron School's full-immersive software engineering bootcamp in January 2022 and have a passion for learning. 
+ Hi there! My name is Katherine Iannaccone and I am a Full-Stack Jr. Software Engineer from Denver,CO. I graduated from Flatiron School's full-immersive software engineering bootcamp in January 2022 and have a passion for learning. 
   </samp>
   </p>
   <br>
