@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </p>
 <img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 - :telescope: I’m currently working on deploying my projects
-- :seedling: I will be learning Python
+- :seedling: I am currently building my portfolio
 - :speech_balloon: Ask me about anything!
 - :crown: I can solve a rubik's cube.
 <!--
