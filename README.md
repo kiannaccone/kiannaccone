@@ -59,12 +59,12 @@ Here are some ideas to get you started:
   <a target="_blank" href="https://medium.com/@katherineiannaccone">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  - :telescope: I’m currently working on deploying my projects
+  - :seedling: I am currently building my portfolio
+  - :speech_balloon: Ask me about anything!
+  - :crown: I can solve a rubik's cube.
 </p>
 <img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-- :telescope: I’m currently working on deploying my projects
-- :seedling: I am currently building my portfolio
-- :speech_balloon: Ask me about anything!
-- :crown: I can solve a rubik's cube.
 <!--
 ## Skills & Experience
 Ruby - Rails - SQL - JavaScript - React - HTML - CSS - Github
