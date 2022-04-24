@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://camo.githubusercontent.com/ed5d63a858eb24eac99d2202727db3a766a928aaef4609c877f58bdbc2fc6296/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3030383143423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174657269616c2d7569266c6f676f436f6c6f723d7768697465" />&nbsp;&nbsp;
 </p>
 <hr>
 &nbsp;
