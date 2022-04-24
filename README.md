@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   </h1>
 <img src="https://www.x-cart.com/wp-content/uploads/2017/09/how-to-become-a-web-developer.png" alt="header image" width="1100px" height="230px"/>
 <hr>
-<!-- I’m excited to utilize my coding abilities to work on future projects and launch my software enginerring career!  -->
 <p align="center">
   <samp>
  Hi there! My name is Katherine Iannaccone and I am a Full-Stack Jr. Software Engineer from Denver,CO. I graduated from Flatiron School's full-immersive software engineering bootcamp in January 2022 and have a passion for learning. 
@@ -36,7 +35,6 @@ Here are some ideas to get you started:
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"><samp> Technologies </samp> </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;&nbsp;&nbsp;
-<!--   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />&nbsp;&nbsp;
@@ -52,9 +50,8 @@ Here are some ideas to get you started:
 </p>
 &nbsp;
 <hr>
-<!-- <h2 align="center"> <samp> <img src="https://monophy.com/media/lqAXW6Y8dtO5Qwfi37/monophy.gif" width=50>My Blog Articles</samp></h2> -->
+
 <h2 align="center"> Blogs</h2>
-<!-- <h5 align="center"> Tech Blogs </h5> -->
 <p align="center" align='right'>
   <a target="_blank" href="https://medium.com/@katherineiannaccone">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
@@ -69,16 +66,8 @@ Here are some ideas to get you started:
  <h2 align="center">Let's Connect!<h2>
 <p align="center">
  <a href="https://github.com/kiannaccone"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  
- <a href="https://www.linkedin.com/in/katherine-iannaccone/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>   
- <a href="https://medium.com/@katherineiannaccone"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'></a> 
+ <a href="https://www.linkedin.com/in/katherine-iannaccone/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>   
+ <a href="https://medium.com/@katherineiannaccone" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'></a> 
 </p>
 <img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-<!--
-## Skills & Experience
-Ruby - Rails - SQL - JavaScript - React - HTML - CSS - Github
-<!--
-## Let's Connect!
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apang20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avelon-pang-82327360//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AvelonP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://avelonpang.medium.com/)
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiannaccone&show_icons=true)
--->
+
