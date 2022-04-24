@@ -55,14 +55,22 @@ Here are some ideas to get you started:
 <!-- <h2 align="center"> <samp> <img src="https://monophy.com/media/lqAXW6Y8dtO5Qwfi37/monophy.gif" width=50>My Blog Articles</samp></h2> -->
 <h2 align="center"> Blogs</h2>
 <!-- <h5 align="center"> Tech Blogs </h5> -->
-<p align="center" align='center'>
+<p align="center" align='right'>
   <a target="_blank" href="https://medium.com/@katherineiannaccone">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
   - :telescope: I’m currently working on deploying my projects
   - :seedling: I am currently building my portfolio
   - :speech_balloon: Ask me about anything!
   - :crown: I can solve a rubik's cube.
+  - 
+ <h2 align="center">Let's Connect!<h2>
+<p align="center">
+ <a href="https://github.com/kiannaccone"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  
+ <a href="https://www.linkedin.com/in/katherine-iannaccone/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>   
+ <a href="https://medium.com/@katherineiannaccone"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'></a> 
 </p>
 <img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 <!--
