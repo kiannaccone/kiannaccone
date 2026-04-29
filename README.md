@@ -3,7 +3,7 @@
 </h1>
   <img src="https://www.x-cart.com/wp-content/uploads/2017/09/how-to-become-a-web-developer.png" alt="header image" width="1100px" height="230px"/>
   <samp>
-    Software engineer with 3+ years building enterprise platforms with Angular, TypeScript, and .NET Core.<br>
+    Software developer with 3+ years building enterprise platforms with Angular, TypeScript, and .NET Core.<br>
   </samp>
 </p>
 
